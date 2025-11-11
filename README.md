@@ -1,3 +1,5 @@
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.github/PULL_REQUEST_TEMPLATE.md)
+
 # COREPACT-AI-PUBLIC
 
 Public-facing materials for the CORE PACT ecosystem. This repository intentionally contains only high-level, non-sensitive documentation, examples, and diagrams suitable for partners, researchers, and the community.
@@ -23,4 +25,13 @@ Contributions
 
 Disclaimer
 - This repo is a polished lobby, not the server room. It intentionally avoids internal implementation specifics, credentials, and sensitive materials.
+
+
+
+## Quick Links
+- PUBLIC REPO POLICY: PUBLIC_REPO_POLICY.md
+- Architecture Overview: docs/ARCHITECTURE_OVERVIEW.md
+- Vision & Principles: docs/VISION_AND_PRINCIPLES.md
+- Contributing: CONTRIBUTING.md
+- Code of Conduct: CODE_OF_CONDUCT.md
 
