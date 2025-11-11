@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Public Repo Policy
+    url: https://github.com/Reedickulos/COREPACT-AI-PUBLIC/blob/main/PUBLIC_REPO_POLICY.md
+    about: Please review before filing issues or PRs.
+
