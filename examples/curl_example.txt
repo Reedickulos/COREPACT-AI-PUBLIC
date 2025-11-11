@@ -1,0 +1,6 @@
+curl -X POST \
+  -H "Authorization: Bearer YOUR_API_KEY_HERE" \
+  -H "Content-Type: application/json" \
+  -d '{"query": "Summarize the benefits of multi-agent collaboration.", "options": { "temperature": 0.2 }}' \
+  https://your-api.example.com/v1/demo
+

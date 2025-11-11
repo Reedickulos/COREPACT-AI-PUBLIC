@@ -11,6 +11,10 @@ import requests
 API_URL = os.environ.get("COREPACT_API_URL", "https://your-api.example.com/v1/demo")
 API_KEY = os.environ.get("COREPACT_API_KEY", "YOUR_API_KEY_HERE")
 
+"""
+Also see curl example in examples/curl_example.txt
+"""
+
 
 def demo_request(prompt: str) -> dict:
     headers = {
@@ -35,4 +39,3 @@ if __name__ == "__main__":
         print(json.dumps(result, indent=2))
     except Exception as e:
         print(f"Request failed: {e}")
-
